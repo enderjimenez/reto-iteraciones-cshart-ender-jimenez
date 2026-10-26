@@ -1,0 +1,14 @@
+/home/enderjimenez/Documentos/reto-iteraciones-cshart-ender-jimenez/reto-iteraciones/bin/Debug/net8.0/reto-iteraciones
+/home/enderjimenez/Documentos/reto-iteraciones-cshart-ender-jimenez/reto-iteraciones/bin/Debug/net8.0/reto-iteraciones.deps.json
+/home/enderjimenez/Documentos/reto-iteraciones-cshart-ender-jimenez/reto-iteraciones/bin/Debug/net8.0/reto-iteraciones.runtimeconfig.json
+/home/enderjimenez/Documentos/reto-iteraciones-cshart-ender-jimenez/reto-iteraciones/bin/Debug/net8.0/reto-iteraciones.dll
+/home/enderjimenez/Documentos/reto-iteraciones-cshart-ender-jimenez/reto-iteraciones/bin/Debug/net8.0/reto-iteraciones.pdb
+/home/enderjimenez/Documentos/reto-iteraciones-cshart-ender-jimenez/reto-iteraciones/obj/Debug/net8.0/reto-iteraciones.GeneratedMSBuildEditorConfig.editorconfig
+/home/enderjimenez/Documentos/reto-iteraciones-cshart-ender-jimenez/reto-iteraciones/obj/Debug/net8.0/reto-iteraciones.AssemblyInfoInputs.cache
+/home/enderjimenez/Documentos/reto-iteraciones-cshart-ender-jimenez/reto-iteraciones/obj/Debug/net8.0/reto-iteraciones.AssemblyInfo.cs
+/home/enderjimenez/Documentos/reto-iteraciones-cshart-ender-jimenez/reto-iteraciones/obj/Debug/net8.0/reto-iteraciones.csproj.CoreCompileInputs.cache
+/home/enderjimenez/Documentos/reto-iteraciones-cshart-ender-jimenez/reto-iteraciones/obj/Debug/net8.0/reto-iteraciones.dll
+/home/enderjimenez/Documentos/reto-iteraciones-cshart-ender-jimenez/reto-iteraciones/obj/Debug/net8.0/refint/reto-iteraciones.dll
+/home/enderjimenez/Documentos/reto-iteraciones-cshart-ender-jimenez/reto-iteraciones/obj/Debug/net8.0/reto-iteraciones.pdb
+/home/enderjimenez/Documentos/reto-iteraciones-cshart-ender-jimenez/reto-iteraciones/obj/Debug/net8.0/reto-iteraciones.genruntimeconfig.cache
+/home/enderjimenez/Documentos/reto-iteraciones-cshart-ender-jimenez/reto-iteraciones/obj/Debug/net8.0/ref/reto-iteraciones.dll
